@@ -40,7 +40,7 @@ class MED007 {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,tailwind,javascript,typescript,nodejs,react,nextjs,vscode,github,figma,git,blender,unrealengine,photoshop,illustrator" />
 </p>
 
 ---
