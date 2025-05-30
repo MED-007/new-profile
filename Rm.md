@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Ahmed Adel 👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+<h1 align="center">Hi, I'm Mohamed Laaguidi 👋</h1>
+<h3 align="center">C++ Developer 🧠 | 3D Designer 🖥️ | AI and ML enthusiast 🤖</h3>
 
 <p align="center">
-  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/med_l_007/"><img src="https://img.shields.io/badge/@med_l_007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-laaguidi-b03236207/"><img src="https://img.shields.io/badge/Mohamed%20Laaguidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@MED_Laaguidi"><img src="https://img.shields.io/badge/YouTube-MED Gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://web.facebook.com/mohammed.laaguidi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Soon-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,25 +16,22 @@
 ## 🚀 About Me
 
 ```dart
-class AhmedAdel {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
+class MED007 {
+  String role = "C++ Developer & Designer";
+  String language = "Arabic | English";
   List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
+    "Figma UI/UX",
+    "Blender | 3D",
+    "Python, Java, C++, HTML, CSS, JavaScript",
+    "Git & GitHub",
+    "3D Content Creation"
   ];
 }
 ```
 ## 🔥 Highlights
 
-- 🔥 Built a YouTube channel with **230K+ subscribers**
+- 🔥 Built an Instagram Profile with **5K+ Followers**
 - 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
 - 🧩 Building **reusable Flutter components**, animations & UI kits
 - 📦 Making **clean code fun** to learn for beginners
 
@@ -57,15 +54,14 @@ class AhmedAdel {
 
 ---
 
-## 🎬 My YouTube Focus
+## 🎬 My Carrer Focus
 
-- ✅ **Flutter basics to advanced** (in Arabic)
+- ✅ **C++ basics to advanced**
 - ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
+- ✅ **Figma UI/UX Websites** with animations
 - ✅ Tips for **VS Code, Git**, and productivity
 - ✅ Free projects and walkthroughs
 
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
 
 ---
 
@@ -73,4 +69,4 @@ class AhmedAdel {
 
 ## ⚡️ Motto
 
-> **“Let’s simplify learning, one line of code at a time.”**
+> **“ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ᴛɪᴍᴇ, ʟᴇᴀʀɴ, ᴋᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ” (ᴍʟ, ɴᴅ)**
