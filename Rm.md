@@ -10,6 +10,7 @@
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=med-007&label=Profile%20views&color=0e75b6&style=flat" alt="med-007" /> </p>
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
@@ -31,10 +32,8 @@ class MED007 {
 ## 🔥 Highlights
 
 - 🔥 Built an Instagram Profile with **5K+ Followers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
-
+- 👨‍🏫 **Linear Algebra** Teacher Assistant
+- 🧩 Making **3D wbesites**, animations & appealing UI
 ---
 
 ## 🧰 Tech Toolbox
@@ -54,13 +53,14 @@ class MED007 {
 
 ---
 
-## 🎬 My Carrer Focus
+## 🎬 My Focus
 
-- ✅ **C++ basics to advanced**
+- ✅ **advanced C++**
 - ✅ **Problem-solving** with C++ & Java
-- ✅ **Figma UI/UX Websites** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
+- ✅ **Figma UI/UX Websites** with animations (for prototyping)
+- ✅ **Build Interactive Modern Websites using HTML,CSS,JS** with animations and visuals
+- ✅ **Design 3D Cultural Moroccan Stuff** with animations
+- ✅ Future AI & ML Engineer **INCHAALLAH**
 
 
 ---
